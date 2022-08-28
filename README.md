@@ -31,6 +31,7 @@ Reach me out 📫  :
 ---
 
 **🎵 Spotify Playing:**
+<br>
 [<img align="center" src="https://spotify-now-listening-seven.vercel.app/api/spotify" alt="Raj Alam Spotify Playing" width="350" />](https://open.spotify.com/user/282hoo67ycjs0zlqef1asq74h)
 
 <details>
