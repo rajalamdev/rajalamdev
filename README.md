@@ -34,10 +34,10 @@ Reach me out 📫  :
 <br>
 [<img align="center" src="https://spotify-now-listening-seven.vercel.app/api/spotify" alt="Raj Alam Spotify Playing" width="350" />](https://open.spotify.com/user/282hoo67ycjs0zlqef1asq74h)
 
-<details>
+<!-- <details>
 <summary><b>My Codewars Stats 📈:</b></summary>
 <p align="left"> <img src="https://www.codewars.com/users/rajalamofficial/badges/large" alt="rajalamofficial" />
-</details>
+</details> -->
 
 <br>
 
