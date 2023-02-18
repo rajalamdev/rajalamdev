@@ -8,7 +8,7 @@ Reach me out 📫  :
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajalamofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rajalamofficial" /> </p>
 
-<p align="center">Hi, I'm <a href="https://rajalam.netlify.app">Raj Alam</a>, a Frontend Developer 🚀 from Indonesia, currently, I'm a college student from Institut Teknologi Indonesia.</p>
+<p align="center">Hi, I'm <a href="https://rajalam.netlify.app">Raj Alam</a>, a Fullstack Web Developer 🚀 from Indonesia, currently, I'm a college student from Institut Teknologi Indonesia.</p>
 
 ---
 
