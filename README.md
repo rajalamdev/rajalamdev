@@ -42,14 +42,6 @@ Reach me out 📫  :
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajalamofficial&show_icons=true&locale=en" alt="rajalamofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajalamofficial&" alt="rajalamofficial" /></p>
-
-</details>
-
-<br>
-
 <details>
 <summary><b>Quotes 📜 :</b></summary>
 <p align="center"> <img src="quotes.jpg" alt="rajalamofficial" />
