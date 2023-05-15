@@ -2,8 +2,7 @@
 
 Reach me out 📫  :
 
-[![Twitter Badge](https://img.shields.io/badge/-@Azura044-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/azura044) [![Instagram Badge](https://img.shields.io/badge/-@rajalam.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rajalam.dev) [![Discord Badge](https://img.shields.io/badge/-Otaku_Hangout-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white)](https://discord.gg/cjfFQNgu2W)
-[![Spotify Badge](https://img.shields.io/badge/-Azuralam-1DB954?style=flat&labelColor=1DB954&logo=spotify&logoColor=white)](https://open.spotify.com/user/282hoo67ycjs0zlqef1asq74h?si=4Qo9YEjmRr6qs8MN7DZqzg)
+[![Twitter Badge](https://img.shields.io/badge/-@Azura044-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/azura044) [![Instagram Badge](https://img.shields.io/badge/-@rajalam.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rajalam.dev)
 [![Mail Badge](https://img.shields.io/badge/-rajalamofficial-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=rajalamofficial@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajalamofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rajalamofficial" /> </p>
