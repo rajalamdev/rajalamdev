@@ -5,6 +5,7 @@ Reach me out 📫  :
 [![Twitter Badge](https://img.shields.io/badge/-@Azura044-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/azura044) [![Instagram Badge](https://img.shields.io/badge/-@rajalam.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rajalam.dev)
 [![Mail Badge](https://img.shields.io/badge/-rajalamdev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=rajalamdev@gmail.com)
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajalamofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rajalamofficial" /> </p>
 
 <p align="center">Hi, I'm <a href="https://rajalam.vercel.app">Raj Alam</a>, a Fullstack Web Developer 🚀 from Indonesia, currently, I'm a college student from Institut Teknologi Indonesia.</p>
@@ -38,10 +39,9 @@ Reach me out 📫  :
 <br>
 [<img align="center" src="https://spotify-now-listening-seven.vercel.app/api/spotify" alt="Raj Alam Spotify Playing" width="350" />](https://open.spotify.com/user/282hoo67ycjs0zlqef1asq74h)
 
-<!-- <details>
-<summary><b>My Codewars Stats 📈:</b></summary>
+<b>My Codewars Stats 📈:</b>
 <p align="left"> <img src="https://www.codewars.com/users/rajalamofficial/badges/large" alt="rajalamofficial" />
-</details> -->
+
 
 <br>
 
