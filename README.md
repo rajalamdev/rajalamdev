@@ -2,7 +2,7 @@
 
 Reach me out 📫  :
 
-[![Twitter Badge](https://img.shields.io/badge/-@Azura044-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/azura044) [![Instagram Badge](https://img.shields.io/badge/-@rajalam.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rajalam.dev)
+[![Instagram Badge](https://img.shields.io/badge/-@rajalam.dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/rajalam.dev)
 [![Mail Badge](https://img.shields.io/badge/-rajalamdev@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=rajalamdev@gmail.com)
 
 
